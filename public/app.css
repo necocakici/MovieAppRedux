@@ -1,0 +1,25 @@
+.wrapper{
+    position: relative;
+    height: 185vh;
+    background-color: rgba(25, 189, 255, 0.2);
+}
+.custom-shape-divider-bottom-1627172461 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1627172461 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 255px;
+}
+
+.custom-shape-divider-bottom-1627172461 .shape-fill {
+    fill: #FFFFFF;
+}
